@@ -1,6 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-![Hi, I'm Abel 3 resized](https://github.com/Abelitux/Abelitux/assets/22718557/b174da52-c1be-4d26-9e44-0769c9caf245)
+<p align="center">
+  <img src="https://github.com/Abelitux/Abelitux/assets/22718557/b174da52-c1be-4d26-9e44-0769c9caf245" alt="animated" />
+</p>
 
 <h3 align="center"><font color="#07122e">Computer Engineering student from Lleida</font></h3>
 
