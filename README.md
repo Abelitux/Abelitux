@@ -1,5 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <p align="center">
+  ![Hi, I'm Abel 3 resized](https://github.com/Abelitux/Abelitux/assets/22718557/8667178a-ecbd-4b38-be44-44a528cb5a78)
   <img src="https://s6.ezgif.com/tmp/ezgif-6-01ab99ad45.webp" alt="Your GIF">
 </p>
 <h3 align="center"><font color="#07122e">Computer Engineering student from Lleida</font></h3>
