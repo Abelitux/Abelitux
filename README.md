@@ -16,11 +16,6 @@
 
 - 🚀 Member of **SIGGames**
 
-<h2 align="center">Contact</h3>
-<p align="center">
-  
-</p>
-
 <h2 align="center">Tools and Languages</h3>
 <br/>
 <div align="center">
