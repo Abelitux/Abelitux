@@ -32,7 +32,7 @@
     <!--     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Abelitux&show_icons=true&hide_border=true&bg_color=07122e&text_color=0583ef&include_all_commits=true&rank_icon=github&text_bold=false&ring_color=ffffff" alt="Abel's GitHub stats - Light">     -->
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=Abelitux&show_icons=true&hide_border=true&theme=react&include_all_commits=true&rank_icon=github" alt="Abel's GitHub stats - Dark">
   </a>
-  <a href="https://git.io/streak-stats" />
+  <a href="https://git.io/streak-stats#gh-dark-mode-only" />
     <!--     <img height=200 width=525 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelitux&layout=donut" />     -->
     <img height=200 src="https://streak-stats.demolab.com?user=Abelitux&theme=react&hide_border=true" alt="GitHub Streak - Dark" />
   </a>
@@ -44,7 +44,7 @@
     <!--     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Abelitux&show_icons=true&hide_border=true&bg_color=0061c3&text_color=ffffff&icon_color=daccda&title_color=ffffff&include_all_commits=true&rank_icon=github&text_bold=false&ring_color=ffffff" alt="Abel's GitHub stats - Light">     -->
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=Abelitux&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github" alt="Abel's GitHub stats - Light">
   </a>
-  <a href="https://github.com/Abelitux/convoychat#gh-light-mode-only" />
+  <a href="https://git.io/streak-stats#gh-light-mode-only" />
     <!--     <img height=200 width=525 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelitux&layout=donut" />     -->
     <img height=200 src="https://streak-stats.demolab.com?user=Abelitux&theme=transparent&hide_border=true" alt="GitHub Streak - Light" />
   </a>
