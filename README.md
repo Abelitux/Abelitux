@@ -28,9 +28,9 @@
 <h2 align="center">Stats</h2>
 <br/>
 <a href="https://github.com/Abelitux/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abelitux&show_icons=true&hide_border=true&bg_color=07122e&text_color=0583ef" alt="Abel's GitHub stats - Dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abelitux&show_icons=true&hide_border=true&bg_color=07122e&text_color=0583ef&rank_icon=github&include_all_commits=true" alt="Abel's GitHub stats - Dark">
 </a>
 <br/>
 <a href="https://github.com/Abelitux/github-readme-stats#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abelitux&show_icons=true&hide_border=true&bg_color=0583ef&text_color=07122e&icon_color=daccda&title_color=ffffff" alt="Abel's GitHub stats - Light">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abelitux&show_icons=true&hide_border=true&bg_color=0583ef&text_color=07122e&icon_color=daccda&title_color=ffffff&include_all_commits=true" alt="Abel's GitHub stats - Light">
 </a>
