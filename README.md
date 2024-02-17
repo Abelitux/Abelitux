@@ -35,7 +35,7 @@
   </a>
   <a href="https://git.io/streak-stats#gh-dark-mode-only" />
     <!--     <img height=200 width=525 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelitux&layout=donut" />     -->
-    <img height=200 src="https://streak-stats.demolab.com?user=Abelitux&theme=graywhite&background=45%2C0061C3%2C050C21&sideLabels=D3D3D3&border=E4E2E2&dates=A2A2A2&currStreakNum=FFFFFF&ring=286CC6&fire=5FD9FF&currStreakLabel=DBDBDB&sideNums=C8FFFE" alt="GitHub Streak - Dark" />
+    <img height=200 src="https://streak-stats.demolab.com?user=Abelitux&theme=graywhite&hide_border=true&background=45%2C0061C3%2C050C21&sideLabels=D3D3D3&border=E4E2E2&dates=A2A2A2&currStreakNum=FFFFFF&ring=286CC6&fire=5FD9FF&currStreakLabel=DBDBDB&sideNums=C8FFFE" alt="GitHub Streak - Dark" />
   </a>
 </div>
 <br/>
@@ -47,6 +47,6 @@
   </a>     -->
   <a href="https://git.io/streak-stats#gh-light-mode-only" />
     <!--     <img height=200 width=525 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelitux&layout=donut" />     -->
-    <img height=200 src="https://streak-stats.demolab.com?user=Abelitux&theme=graywhite&background=45%2C0061C3%2C050C21&sideLabels=D3D3D3&border=E4E2E2&dates=A2A2A2&currStreakNum=FFFFFF&ring=286CC6&fire=5FD9FF&currStreakLabel=DBDBDB&sideNums=C8FFFE" alt="GitHub Streak - Light" />
+    <img height=200 src="https://streak-stats.demolab.com?user=Abelitux&theme=graywhite&hide_border=true&background=45%2C0061C3%2C050C21&sideLabels=D3D3D3&border=E4E2E2&dates=A2A2A2&currStreakNum=FFFFFF&ring=286CC6&fire=5FD9FF&currStreakLabel=DBDBDB&sideNums=C8FFFE" alt="GitHub Streak - Light" />
   </a>
 </div>
