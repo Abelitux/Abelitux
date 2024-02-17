@@ -24,3 +24,11 @@
     <img src="https://skillicons.dev/icons?i=java,python,c,cs,cpp,idea,vscode,linux" />
   </a>
 </div>
+
+
+<h2 align="center">Stats</h2>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abelitux&show_icons=true&theme=tokyonight&bg_color=07122e" alt="Abel's GitHub stats">
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
