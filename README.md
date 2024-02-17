@@ -28,9 +28,16 @@
 <h2 align="center">Stats</h2>
 <br/>
 <a href="https://github.com/Abelitux/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abelitux&show_icons=true&hide_border=true&bg_color=07122e&text_color=0583ef&include_all_commits=true&rank_icon=github&text_bold=false&ring_color=ffffff" alt="Abel's GitHub stats - Light">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Abelitux&show_icons=true&hide_border=true&bg_color=07122e&text_color=0583ef&include_all_commits=true&rank_icon=github&text_bold=false&ring_color=ffffff" alt="Abel's GitHub stats - Light">
 </a>
+<a href="https://github.com/Abelitux/convoychat#gh-dark-mode-only" />
+  <img height=200 width=525 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelitux&layout=donut" />
+</a>
+
 <br/>
 <a href="https://github.com/Abelitux/github-readme-stats#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abelitux&show_icons=true&hide_border=true&bg_color=0061c3&text_color=ffffff&icon_color=daccda&title_color=ffffff&include_all_commits=true&rank_icon=github&text_bold=false&ring_color=ffffff" alt="Abel's GitHub stats - Light">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Abelitux&show_icons=true&hide_border=true&bg_color=0061c3&text_color=ffffff&icon_color=daccda&title_color=ffffff&include_all_commits=true&rank_icon=github&text_bold=false&ring_color=ffffff" alt="Abel's GitHub stats - Light">
+</a>
+<a href="https://github.com/Abelitux/convoychat#gh-light-mode-only" />
+  <img height=200 width=525 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelitux&layout=donut" />
 </a>
