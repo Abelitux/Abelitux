@@ -34,8 +34,8 @@
     <!--     <img height=200 src="https://github-readme-stats.vercel.app/api?username=Abelitux&show_icons=true&hide_border=true&theme=react&include_all_commits=true&rank_icon=github" alt="Abel's GitHub stats - Dark">     -->
   </a>
   <a href="https://git.io/streak-stats#gh-dark-mode-only" />
-    <!--     <img width=500 width=525 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelitux&layout=donut" />     -->
-    <img height=200 src="https://streak-stats.demolab.com?user=Abelitux&theme=graywhite&hide_border=true&background=10%2C0061C3%2C050C21&sideLabels=D3D3D3&border=E4E2E2&dates=A2A2A2&currStreakNum=FFFFFF&ring=286CC6&fire=5FD9FF&currStreakLabel=DBDBDB&sideNums=C8FFFE" alt="GitHub Streak - Dark" />
+    <!--     <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelitux&layout=donut" />     -->
+    <img height=200 src="https://streak-stats.demolab.com?user=Abelitux&theme=graywhite&hide_border=true&background=10%2C0061C3%2C050C21&sideLabels=D3D3D3&card_width=500&border=E4E2E2&dates=A2A2A2&currStreakNum=FFFFFF&ring=286CC6&fire=5FD9FF&currStreakLabel=DBDBDB&sideNums=C8FFFE" alt="GitHub Streak - Dark" />
   </a>
 </div>
 <br/>
@@ -46,7 +46,7 @@
     <!--     <img width=500 src="https://github-readme-stats.vercel.app/api?username=Abelitux&show_icons=true&border_color=818080&theme=graywhite&include_all_commits=true&rank_icon=github" alt="Abel's GitHub stats - Light">
   </a>     -->
   <a href="https://git.io/streak-stats#gh-light-mode-only" />
-    <!--     <img width=500 width=525 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelitux&layout=donut" />     -->
-    <img height=200 src="https://streak-stats.demolab.com?user=Abelitux&theme=graywhite&hide_border=true&background=10%2C85C3D7%2C005AB6&sideLabels=D3D3D3&border=E4E2E2&dates=A2A2A2&currStreakNum=FFFFFF&ring=286CC6&fire=5FD9FF&currStreakLabel=DBDBDB&sideNums=C8FFFE" alt="GitHub Streak - Light" />
+    <!--     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelitux&layout=donut" />     -->
+    <img height=200 src="https://streak-stats.demolab.com?user=Abelitux&theme=graywhite&hide_border=true&background=10%2C85C3D7%2C005AB6&sideLabels=D3D3D3&card_width=500&border=E4E2E2&dates=A2A2A2&currStreakNum=FFFFFF&ring=286CC6&fire=5FD9FF&currStreakLabel=DBDBDB&sideNums=C8FFFE" alt="GitHub Streak - Light" />
   </a>
 </div>
