@@ -30,12 +30,12 @@
 <div align=center>
   <a href="https://github.com/Abelitux/github-readme-stats#gh-dark-mode-only">
     <!--     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Abelitux&show_icons=true&hide_border=true&bg_color=07122e&text_color=0583ef&include_all_commits=true&rank_icon=github&text_bold=false&ring_color=ffffff" alt="Abel's GitHub stats - Light">     -->
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Abelitux&show_icons=true&hide_border=true&bg_color=DEG,85C3D7,005AB6&text_color=ffffff&icon_color=daccda&title_color=ffffff&include_all_commits=true&rank_icon=github&text_bold=false&ring_color=ffffff" alt="Abel's GitHub stats - Dark">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Abelitux&show_icons=true&hide_border=true&bg_color=DEG,0061C3,050C21&text_color=ffffff&icon_color=daccda&title_color=ffffff&include_all_commits=true&rank_icon=github&text_bold=false&ring_color=ffffff" alt="Abel's GitHub stats - Dark">
     <!--     <img height=200 src="https://github-readme-stats.vercel.app/api?username=Abelitux&show_icons=true&hide_border=true&theme=react&include_all_commits=true&rank_icon=github" alt="Abel's GitHub stats - Dark">     -->
   </a>
   <a href="https://git.io/streak-stats#gh-dark-mode-only" />
     <!--     <img height=200 width=525 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelitux&layout=donut" />     -->
-    <img height=200 src="https://streak-stats.demolab.com?user=Abelitux&theme=graywhite&hide_border=true&background=45%2C0061C3%2C050C21&sideLabels=D3D3D3&border=E4E2E2&dates=A2A2A2&currStreakNum=FFFFFF&ring=286CC6&fire=5FD9FF&currStreakLabel=DBDBDB&sideNums=C8FFFE" alt="GitHub Streak - Dark" />
+    <img height=200 src="https://streak-stats.demolab.com?user=Abelitux&theme=graywhite&hide_border=true&background=10%2C0061C3%2C050C21&sideLabels=D3D3D3&border=E4E2E2&dates=A2A2A2&currStreakNum=FFFFFF&ring=286CC6&fire=5FD9FF&currStreakLabel=DBDBDB&sideNums=C8FFFE" alt="GitHub Streak - Dark" />
   </a>
 </div>
 <br/>
@@ -47,6 +47,6 @@
   </a>     -->
   <a href="https://git.io/streak-stats#gh-light-mode-only" />
     <!--     <img height=200 width=525 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelitux&layout=donut" />     -->
-    <img height=200 src="https://streak-stats.demolab.com?user=Abelitux&theme=graywhite&hide_border=true&background=45%2C0061C3%2C050C21&sideLabels=D3D3D3&border=E4E2E2&dates=A2A2A2&currStreakNum=FFFFFF&ring=286CC6&fire=5FD9FF&currStreakLabel=DBDBDB&sideNums=C8FFFE" alt="GitHub Streak - Light" />
+    <img height=200 src="https://streak-stats.demolab.com?user=Abelitux&theme=graywhite&hide_border=true&background=10%2C85C3D7%2C005AB6&sideLabels=D3D3D3&border=E4E2E2&dates=A2A2A2&currStreakNum=FFFFFF&ring=286CC6&fire=5FD9FF&currStreakLabel=DBDBDB&sideNums=C8FFFE" alt="GitHub Streak - Light" />
   </a>
 </div>
