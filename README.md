@@ -20,8 +20,8 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,pr,ae,ai,figma,blender,autocad,unity" /><br>
-    <img src="https://skillicons.dev/icons?i=java,python,c,cs,cpp,idea,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=ps,pr,ae,ai,idea,figma,blender,autocad,unity" /><br>
+    <img src="https://skillicons.dev/icons?i=java,python,c,cs,cpp,html,css,vscode,linux" />
   </a>
 </div>
 
