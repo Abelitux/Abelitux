@@ -8,9 +8,7 @@
 
 - 🎮 I’m currently working on a **2d PixelArt game in Unity**
 
-- 🌱 I’m currently learning **Django**
-
-- 🏨 I’m currently working on a **webpage for a hotel**
+- 🌱 I’m currently learning **Angular**
 
 - 🎬 I'm currently woking on a **cinema webpage**
 
